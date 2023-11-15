@@ -59,7 +59,7 @@ const About = () => {
             </div> */}
           </div>
           <a
-            href="https://drive.google.com/file/d/1pgpDaGHyZ3Vhqwp6o8K8Z5uTpJ9cmovK/view?usp=sharing"
+            href="https://drive.google.com/file/d/16I6hlToVMpkH6_QyyxNOFgSs0i34VELm/view?usp=sharing"
             className="btn margin-right-sm" rel="noopener noreferrer" target="_blank"
           >
             Download CV
